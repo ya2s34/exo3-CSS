@@ -1,0 +1,7 @@
+ul>li+li {
+    background-color: rgb(110, 110, 202);
+}
+
+ul>li+li+li {
+    background-color: white;
+}
